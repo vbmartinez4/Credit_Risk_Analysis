@@ -20,3 +20,9 @@ In our analysis, we have a credit card dataset from LendingClub, a peer-to-peer 
 - Compare the advantages and disadvantages of each supervised learning algorithm.
 - Determine which supervised learning algorithm is best used for a given data set or scenario.
 - Use ensemble and resampling techniques to improve model performance.
+
+## Results
+After applying the ETL process and splitting the data provided into training and test groups, we have a total of six algorithms and models to evaluate which one can bring us the most accurate responses to identifying an accurate credit risk. Here we have evaluated each model based on their respective balanced accuracy, precision, and recall scores. 
+
+### Oversampling
+
