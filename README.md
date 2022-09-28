@@ -27,7 +27,7 @@ After applying the ETL process and splitting the data provided into training and
 ### Oversampling
 **Naive Random Oversampling**
 
-![naïve random oversampling](Images/naïve_random_oversampling.png)
+![naive random oversampling](Images/naive_random_oversampling.png)
 
 - Balance Accuracy Score: 0.64132
 - Precision Score (High/Low): 0.01/ 1.00
